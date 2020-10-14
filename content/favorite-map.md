@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Favorite map
-nav_order: 11
+nav_order: 2.5
 ---
 
 # This is where my favorite map will reside! Welcome, map.
